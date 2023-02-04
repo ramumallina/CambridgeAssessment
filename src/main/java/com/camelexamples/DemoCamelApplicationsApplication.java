@@ -9,5 +9,8 @@ public class DemoCamelApplicationsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoCamelApplicationsApplication.class, args);
 	}
+//JIRA-200 related changes
+public void doProcess(){
+//logic goes here
 
 }
