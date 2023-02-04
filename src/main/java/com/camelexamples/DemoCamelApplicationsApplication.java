@@ -8,6 +8,7 @@ public class DemoCamelApplicationsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoCamelApplicationsApplication.class, args);
+		int a=10;
 	}
 
 }
